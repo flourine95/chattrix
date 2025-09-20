@@ -1,0 +1,6 @@
+[submodule "chattrix-api"]
+	path = chattrix-api
+	url = https://github.com/flourine95/chattrix-api.git
+[submodule "chattrix-ui"]
+	path = chattrix-ui
+	url = https://github.com/flourine95/chattrix-ui.git
